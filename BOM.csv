@@ -1,2 +1,2 @@
-Item,Qty,Supplier,Cost/item,Total Cost,link
-Merbl 3D Print (9600 Resin White),1,JLC3DP,27.62,27.62,https://jlc3dp.com/
+Item, amount, cost (ea.), Link
+Merbl 3D Print (9600 Resin White), 1, 27.62, https://jlc3dp.com/
