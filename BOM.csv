@@ -1,2 +1,5 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-Estimated total shipping,1,,,$0.00,
+Merbl 3D Print (9600 Resin),1,JLC3DP,$20.49,$20.49,https://jlc3dp.com/
+Coupon Discount,1,JLC3DP,-$10.00,-$10.00,https://jlc3dp.com/
+8mm Steel Ball Bearing,1,Local,$0.00,$0.00,https://robu.in/
+Estimated total shipping,1,UPS,$17.13,$17.13,https://jlc3dp.com/
