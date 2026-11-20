@@ -14,6 +14,8 @@ everything is arranged vertically so it stays compact and fits inside the standa
 
 ![Merbl CAD Screenshot](Screenshot%20from%202026-10-19%2004-39-22.png)
 
+![Merbl CAD Track Overview](Screenshot%20from%202026-10-19%2000-58-42.png)
+
 ## the parts
 
 ### 1. straw hat base plate
